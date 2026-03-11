@@ -6,7 +6,7 @@
  * @author Srirangam Venkata Shrawan
  * @version 21.0
  */
-public class OOPSBannerApp {
+public class UC1 {
 
     public static void main(String[] args) {
         System.out.println("OOPS");
